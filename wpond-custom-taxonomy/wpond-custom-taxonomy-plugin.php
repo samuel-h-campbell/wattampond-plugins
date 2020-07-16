@@ -3,7 +3,7 @@
 Plugin Name: Register Custom Taxonomy
 Plugin URI: http://wattampond.com
 Description: Plugin to register the custom taxonomy of status
-Version: 0.1
+Version: 1.0
 Author: Samuel Hudson Campbell
 Author URI:http://shcdesign.ca
 Textdomain: wpond
